@@ -1,6 +1,6 @@
 ---
 title: Toolbar title rollover delay | Finder
-description: Choose the delay of the auto-hidden document-proxy icon.
+description: Choose the delay of the auto-hidden document-proxy icon and untrimmed folder name.
 head:
   - - meta
     - property: 'og:title'
@@ -19,10 +19,6 @@ Choose the delay of the auto-hidden document-proxy icon.
   - Monterey
   - Big Sur
 - **Parameter type**: float
-
-## Requirements
-
-- [`com.apple.universalaccess showWindowTitlebarIcons`](/finder/showwindowtitlebaricons.md#set-to-false-default-value) must be set to `false`
 
 ## Set to `0.5` (default value)
 
